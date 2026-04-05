@@ -18,7 +18,8 @@
     "pino": "^8.1.0",
     "phone" : "3.1.30",
     "body-parser": "^1.20.1",
-    "better-pastebin": "^1.0.4",
+    "node-pastebin": "^1.0.1",
+    "axios": "^1.6.0",
     "express": "^4.18.1",
     "path": "^0.12.7"
    }
